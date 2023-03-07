@@ -1,0 +1,12 @@
+yfinance
+ta
+gym==0.21.0
+quanttrader==0.5.5
+pyfolio==0.9.2
+imageio==2.4.0
+pyvirtualdisplay
+tf-agents[reverb]
+pyglet
+PyYaml==3.13
+google-colab
+nltk
